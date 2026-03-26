@@ -1,0 +1,111 @@
+Component,Product Name,Brand,Current Price,Old Price,Discount Amount,Stock Status
+Processor,Intel Core i5 10500T 10th Gen Comet Lake Processor,Intel,"৳ 12,500","৳ 12,900",৳ 400,In Stock
+Processor,AMD Ryzen 7 9850X3D 8 Core 16 Thread Desktop Processor,AMD,"৳ 65,000","৳ 69,000","৳ 4,000",In Stock
+Processor,Intel Core Ultra 5 225 10 Core 10 Threads Arrow Lake Processor,Intel,"৳ 19,999","৳ 24,500","৳ 4,501",In Stock
+Processor,AMD Ryzen 9 9900X3D 12 Core 24 Thread AM5 Gaming Processor,AMD,"৳ 66,500","৳ 82,000","৳ 15,500",In Stock
+Processor,AMD Ryzen 9 9950X3D 16 Core 32 Thread AM5 Gaming Processor,AMD,"৳ 74,999","৳ 79,000","৳ 4,001",In Stock
+Processor,AMD Ryzen 5 7400F 3.7GHz 6 Core AM5 Socket Processor,AMD,"৳ 14,799","৳ 18,500","৳ 3,701",In Stock
+Processor,AMD Ryzen 5 8400F Cores 6 Threads 12 Processor,AMD,"৳ 13,600","৳ 15,500","৳ 1,900",In Stock
+Processor,Intel Core i3 14100 14th Gen Raptor Lake Processor,Intel,"৳ 15,900","৳ 18,500","৳ 2,600",In Stock
+Processor,AMD Ryzen 7 9800X3D 8 Cores 16 Threads Gaming Processor,AMD,"৳ 52,000","৳ 57,500","৳ 5,500",In Stock
+Processor,AMD Ryzen 5 7600X3D 6 Cores 12 Threads AM5 Desktop Processor,AMD,"৳ 32,900","৳ 37,000","৳ 4,100",In Stock
+Processor,Intel Core Ultra 9-285K Arrow Lake Processor,Intel,"৳ 71,500","৳ 83,500","৳ 12,000",In Stock
+Processor,Intel Core Ultra 7-265K Cores 20 Threads 20 Desktop Processor,Intel,"৳ 34,900","৳ 57,300","৳ 22,400",In Stock
+Processor,Intel Core Ultra 5-245K 14 Cores 14 Threads Desktop Processor,Intel,"৳ 24,300","৳ 45,000","৳ 20,700",In Stock
+Processor,Intel Core Ultra 5-245KF Core 14 Threads 14 Desktop Processor,Intel,"৳ 38,000","৳ 42,300","৳ 4,300",In Stock
+Processor,AMD Ryzen 5 9600X 6 Core 12 Thread AM5 Desktop Gaming Processor,AMD,"৳ 22,900","৳ 24,500","৳ 1,600",In Stock
+Processor,AMD Ryzen 7 9700X 8 Core 16 Thread AM5 Desktop Gaming Processor,AMD,"৳ 29,800","৳ 33,500","৳ 3,700",In Stock
+Processor,AMD Ryzen 9 9900X 12 Core 24 Thread AM5 Desktop Gaming Processor,AMD,"৳ 43,300","৳ 46,000","৳ 2,700",In Stock
+Processor,AMD Ryzen 9 9950X 16 Core 32 Thread AM5 Desktop Gaming Processor,AMD,"৳ 54,700","৳ 60,500","৳ 5,800",In Stock
+Processor,Intel Core i5 14400F 14th Gen Raptor Lake Processor,Intel,"৳ 19,400","৳ 29,500","৳ 10,100",In Stock
+Processor,AMD Ryzen 7 8700G 8 Core 16 Thread AM5 Processor With Radeon Graphics,AMD,"৳ 29,500","৳ 36,500","৳ 7,000",In Stock
+Processor,AMD Ryzen 5 5500GT 6 Core 12 Thread AM4 Processor With Radeon Graphics,AMD,"৳ 14,600","৳ 15,500",৳ 900,In Stock
+Processor,AMD Ryzen 5 5600GT 6 Core 12 Thread AM4 Processor With Radeon Graphics,AMD,"৳ 15,500","৳ 17,500","৳ 2,000",In Stock
+Processor,AMD Ryzen 5 8500G 6 Core 12 Thread AM5 Processor With Radeon Graphics,AMD,"৳ 18,500","৳ 23,000","৳ 4,500",In Stock
+Processor,AMD Ryzen 5 8600G 6 Core 12 Thread AM5 Processor With Radeon Graphics,AMD,"৳ 22,500","৳ 29,000","৳ 6,500",In Stock
+Processor,Intel Core i7 14700 14th Gen Raptor Lake Processor,Intel,"৳ 49,500","৳ 50,000",৳ 500,In Stock
+Processor,Intel Core i5 14500 14th Gen Raptor Lake Processor,Intel,"৳ 28,300","৳ 31,800","৳ 3,500",In Stock
+Processor,Intel Core i3 14100F 14th Gen Raptor Lake Processor,Intel,"৳ 13,950","৳ 19,500","৳ 5,550",In Stock
+Processor,Intel Core i5 14400 14th Gen Raptor Lake Processor,Intel,"৳ 27,500","৳ 32,000","৳ 4,500",In Stock
+Processor,AMD RYZEN 5 7500F 5.0GHZ 6 CORE AM5 Socket PROCESSOR,AMD,"৳ 14,900","৳ 18,500","৳ 3,600",In Stock
+Processor,INTEL CORE I7-14700KF 20 CORE 28 THREAD 14TH GEN PROCESSOR,INTEL,"৳ 38,800","৳ 43,500","৳ 4,700",In Stock
+Processor,INTEL CORE I9-14900KF 24 CORES 32 THREADS 14TH GEN PROCESSOR,INTEL,"৳ 49,900","৳ 70,000","৳ 20,100",In Stock
+Processor,INTEL CORE I9-14900K 24 CORES 32 THREADS 14TH GEN PROCESSOR,INTEL,"৳ 62,000","৳ 65,000","৳ 3,000",In Stock
+Processor,INTEL CORE I7 14700K 20 CORE 28 THREAD 14TH GEN PROCESSOR,INTEL,"৳ 48,900","৳ 55,500","৳ 6,600",In Stock
+Processor,INTEL CORE I5-14600K 14 CORES 20 THREADS 14TH GEN PROCESSOR,INTEL,"৳ 27,500","৳ 33,500","৳ 6,000",In Stock
+Processor,AMD RYZEN 5 7600 3.8GHZ-5.1GHZ 6 CORE 38MB CACHE GAMING AM5 Socket PROCESSOR,AMD,"৳ 18,200","৳ 25,500","৳ 7,300",In Stock
+Processor,AMD Ryzen 7 7700 8-Core AM5 Processor,AMD,"৳ 22,600","৳ 26,500","৳ 3,900",In Stock
+Processor,AMD RYZEN 7 7800X3D Cores 8 Threads 16 AM5 GAMING PROCESSOR,AMD,"৳ 37,999","৳ 42,000","৳ 4,001",In Stock
+Processor,AMD RYZEN 9 7900X3D Cores 12 Threads 24 GAMING AM5 Socket PROCESSOR,AMD,"৳ 46,500","৳ 52,000","৳ 5,500",In Stock
+Processor,AMD RYZEN 9 7950X3D Cores 16 Threads 32 GAMING AM5 Socket PROCESSOR,AMD,"৳ 59,000","৳ 75,500","৳ 16,500",In Stock
+Processor,INTEL CORE I3-13100 4.50 GHZ CORES 4 LGA 1700 13TH GEN PROCESSOR,INTEL,"৳ 14,500","৳ 16,900","৳ 2,400",In Stock
+Processor,INTEL CORE I7-13700 16 CORE 24 THREAD 13TH GEN PROCESSOR,INTEL,"৳ 45,000","৳ 49,000","৳ 4,000",In Stock
+Processor,Intel Core I5 13500 14 Core 20 Threads 13th Gen LGA 1700 Processor,Intel,"৳ 28,000","৳ 28,800",৳ 800,In Stock
+Processor,INTEL CORE I5 13400 13TH GEN RAPTOR LAKE PROCESSOR,INTEL,"৳ 28,000","৳ 29,000","৳ 1,000",In Stock
+Processor,INTEL CORE I5-13400F 4.60 GHZ 13TH GEN 10 CORES LGA1700 PROCESSOR,INTEL,"৳ 19,500","৳ 23,500","৳ 4,000",In Stock
+Processor,INTEL CORE I9-13900K 3 GHZ 24-CORE LGA 1700 13TH PROCESSOR,INTEL,"৳ 47,000","৳ 65,500","৳ 18,500",In Stock
+Processor,INTEL CORE I7-13700K 3.4 GHZ 16-CORE LGA 1700 13 TH GEN PROCESSOR,INTEL,"৳ 42,500","৳ 48,900","৳ 6,400",In Stock
+Processor,INTEL CORE I5-13600K 3.5 GHZ 14-CORE LGA 1700 13TH GEN PROCESSOR,INTEL,"৳ 26,500","৳ 31,500","৳ 5,000",In Stock
+Processor,AMD Ryzen 5 7600X 4.7 GHz 6 Core AM5 Processor,AMD,"৳ 19,500","৳ 42,500","৳ 23,000",In Stock
+Processor,AMd Ryzen 7 7700x 4.5 GHz 8 Core AM5 Processor,AMd,"৳ 27,300","৳ 29,500","৳ 2,200",In Stock
+Processor,AMD RYZEN 9 7900X 4.7 GHZ 12-CORE AM5 PROCESSOR,AMD,"৳ 40,300","৳ 44,000","৳ 3,700",In Stock
+Processor,AMD RYZEN 9 7950X 4.5 GHZ 16-CORE AM5 PROCESSOR,AMD,"৳ 45,500","৳ 54,000","৳ 8,500",In Stock
+Processor,AMD Ryzen 5 5600 3.5 GHz 6-Core 12-Thread AM4 Processor,AMD,"৳ 13,300","৳ 14,500","৳ 1,200",In Stock
+Processor,AMD RYZEN 7 5700X 8 CORE 16 THREAD AM4 PROCESSOR,AMD,"৳ 17,500","৳ 21,500","৳ 4,000",In Stock
+Processor,INTEL CORE I5 12400F 6 CORE 12 THREAD 12TH GEN PROCESSOR,INTEL,"৳ 14,900","৳ 17,500","৳ 2,600",In Stock
+Processor,AMD Ryzen 5 5500 6 Core 12 Thread AM4 Processor,AMD,"৳ 10,200","৳ 11,500","৳ 1,300",In Stock
+Processor,Intel Core i7-12700 12th Gen Alder Lake Processor,Intel,"৳ 32,600","৳ 36,500","৳ 3,900",In Stock
+Processor,INTEL CORE I9-12900 16 CORES 24 THREADS 12TH GEN ALDER LAKE PROCESSOR,INTEL,"৳ 55,000","৳ 65,000","৳ 10,000",In Stock
+Processor,INTEL CORE I5 12500 ALDER LAKE 6 CORE 12 THREADS 12TH GEN PROCESSOR,INTEL,"৳ 24,000","৳ 25,500","৳ 1,500",In Stock
+Processor,Intel Core i3-12100 Alder Lake 12th Gen Processor,Intel,"৳ 14,200","৳ 15,900","৳ 1,700",In Stock
+Processor,Intel Core i5-12400 6 Core 12 Thread 12th Gen Processor,Intel,"৳ 20,300","৳ 23,500","৳ 3,200",In Stock
+Processor,Intel Core i5-12600K 10 Core 16 Thread 12th Gen Processor,Intel,"৳ 26,000","৳ 29,500","৳ 3,500",In Stock
+Processor,Intel Core i7-12700K 12 Core 20 Thread 12th Gen Processor,Intel,"৳ 32,500","৳ 33,500","৳ 1,000",In Stock
+Processor,Intel Core i9-12900K 16 Core 24 Thread 12th Gen Processor,Intel,"৳ 40,990","৳ 51,000","৳ 10,010",In Stock
+Processor,AMD Ryzen 9 5950X 16 Core 32 Thread AM4 Processor,AMD,"৳ 38,900","৳ 63,000","৳ 24,100",In Stock
+Processor,AMD Ryzen 5 5600G AM4 Socket Processor with Radeon Graphics,AMD,"৳ 15,700","৳ 16,600",৳ 900,In Stock
+Processor,AMD Ryzen 7 5700G 8 Core 16 Thread AM4 Processor with Radeon Graphics,AMD,"৳ 18,200","৳ 19,500","৳ 1,300",In Stock
+Processor,Intel Core i5-11500 6 Core 12 Thread 11th Gen Processor,Intel,"৳ 14,800","৳ 19,500","৳ 4,700",In Stock
+Processor,Intel Core i5-11400 6 Core 12 Thread 11th Gen Processor,Intel,"৳ 14,500","৳ 16,500","৳ 2,000",In Stock
+Processor,Intel Core i7-11700 8 Core 16 Thread 11th Gen Processor,Intel,"৳ 25,500","৳ 33,000","৳ 7,500",In Stock
+Processor,AMD Ryzen 9 5900X 12 Core 24 Thread AM4 Processor,AMD,"৳ 29,900","৳ 31,500","৳ 1,600",In Stock
+Processor,AMD Ryzen 7 5800X 8 Core 16 Thread AM4 Processor,AMD,"৳ 22,500","৳ 29,500","৳ 7,000",In Stock
+Processor,AMD Ryzen 5 5600X 6 Core 12 Thread AM4 Processor,AMD,"৳ 14,400","৳ 17,600","৳ 3,200",In Stock
+Processor,Intel Core i3-10100 4 Core 8 Thread 10th Gen Processor,Intel,"৳ 10,400","৳ 14,800","৳ 4,400",In Stock
+Processor,Intel Core i7-10700 8 Core 16 Thread 10th Gen Processor,Intel,"৳ 23,900","৳ 30,000","৳ 6,100",In Stock
+Processor,Intel Core i5-10400 6 Core 12 Thread 10th Gen Processor,Intel,"৳ 14,500","৳ 16,500","৳ 2,000",In Stock
+Processor,AMD Ryzen 5 3400G 4 Core 8 Thread AM4 Processor with Radeon RX Vega 11 Graphics,AMD,"৳ 7,200","৳ 8,900","৳ 1,700",In Stock
+Processor,AMD Ryzen 3 2200G 4 Core 4 Thread AM4 Processor with Radeon Vega 8 Graphics,AMD,"৳ 4,400","৳ 5,600","৳ 1,200",In Stock
+Processor,AMD Ryzen 5 2400G 4 Core 8 Thread AM4 Socket Processor with Radeon RX Vega 11 Graphics,AMD,"৳ 6,400","৳ 8,950","৳ 2,550",In Stock
+Processor,INTEL CORE I5-14600KF 14 CORES 20 THREADS 14TH GEN PROCESSOR,INTEL,Call For Price,,"৳ 4,000",Out of Stock
+Processor,AMD Ryzen 7 5800XT 8 Core 16 Thread AM4 Desktop Gaming Processor,AMD,Up Coming,,"৳ 1,000",Out of Stock
+Processor,AMD Ryzen 9 5900XT 16 Core 32 Thread AM4 Desktop Gaming Processor,AMD,Up Coming,,"৳ 1,000",Out of Stock
+Processor,AMD Ryzen 3 8300G 4 Cores 8 Threads AM5 Desktop Processor with Radeon Graphics,AMD,Up Coming,,৳ 400,Out of Stock
+Processor,AMD Ryzen 5 5500X3D AM4 6 Cores 12 Threads Processor,AMD,Up Coming,,"৳ 2,000",Out of Stock
+Processor,AMD Ryzen 7 5700 8 Core 16 Thread AM4 Processor,AMD,Up Coming,,"৳ 1,000",Out of Stock
+Processor,Intel Core i9 14900F 14th Gen Raptor Lake Processor,Intel,Up Coming,,"৳ 2,000",Out of Stock
+Processor,Intel Core i7 14700F 14th Gen Raptor Lake Processor,Intel,Up Coming,,"৳ 1,200",Out of Stock
+Processor,AMD RYZEN 5 PRO 5650G 6 CORE 12 THREADS AM4 PROCESSOR WITH RADEON GRAPHICS,AMD,Up Coming,,"৳ 1,000",Out of Stock
+Processor,INTEL CORE I9-13900KS 24 CORE 32 THREAD PROCESSOR,INTEL,Up Coming,,"৳ 2,000",Out of Stock
+Processor,Intel Core i5-13600KF 3.5 GHz 14-Core LGA 1700 Processor,Intel,Up Coming,,"৳ 2,500",Out of Stock
+Processor,INTEL CORE I5-12600 3.3 GHZ 6 CORES 12 THREADS PROCESSOR,INTEL,Up Coming,,"৳ 3,000",Out of Stock
+Processor,INTEL CORE I9-12900KS 3.4 GHZ 16-CORE 24 THREADS PROCESSOR,INTEL,Up Coming,,"৳ 5,000",Out of Stock
+Processor,Intel Core i5-11600 6 Core 12 Thread 11th Gen Processor,Intel,Up Coming,,"৳ 2,000",Out of Stock
+Processor,Intel Core i9-11900K 8 Core 16 Thread 11th Gen Processor,Intel,Up Coming,,"৳ 6,000",Out of Stock
+Processor,AMD RYZEN THREADRIPPER PRO 5995WX 2.7 GHZ 64-CORE SWRX8 PROCESSOR,AMD,Pre-Order,,"৳ 5,000",Out of Stock
+Processor,AMD RYZEN THREADRIPPER PRO 5975WX 3.6 GHZ 32-CORE SWRX8 PROCESSOR,AMD,Pre-Order,,"৳ 10,000",Out of Stock
+Processor,AMD RYZEN THREADRIPPER PRO 5965WX 3.8 GHZ 24-CORE SWRX8 PROCESSOR,AMD,Pre-Order,,"৳ 8,000",Out of Stock
+Processor,Intel Core i5-10600 6 Core 12 Thread 10th Gen Processor,Intel,"৳ 14,000","৳ 14,500",৳ 500,Out of Stock
+Processor,Intel Core Ultra 7-265KF 20 Cores 20 Threads Desktop Processor,Intel,"৳ 37,000","৳ 55,600","৳ 18,600",Out of Stock
+Processor,AMD Athlon 3000G AM4 Processor with Radeon Graphics,AMD,"৳ 4,800","৳ 6,300","৳ 1,500",Out of Stock
+Processor,Intel Core i3-10320 3.8 GHz Quad-Core LGA 1200 10th Gen Processor,Intel,"৳ 11,000","৳ 13,500","৳ 2,500",Out of Stock
+Processor,AMD Ryzen 7 5700X3D 8 Core 16 Thread AM4 Processor,AMD,"৳ 27,500","৳ 29,500","৳ 2,000",Out of Stock
+Processor,INTEL CORE I9-13900F 5.60 GHZ 24 CORES LGA 1700 13TH GEN PROCESSOR,INTEL,"৳ 61,500","৳ 63,000","৳ 1,500",Out of Stock
+Processor,INTEL CORE I7-13700KF 3.4 GHZ 16-CORE LGA 1700 PROCESSOR,INTEL,"৳ 41,500","৳ 48,500","৳ 7,000",Out of Stock
+Processor,INTEL CORE I9-13900KF 3 GHZ 24-CORE LGA 1700 13TH PROCESSOR,INTEL,"৳ 3,100","৳ 66,500","৳ 63,400",Out of Stock
+Processor,AMD RYZEN 7 PRO 4700G AM4 Socket PROCESSOR WITH RADEON GRAPHICS,AMD,"৳ 13,500","৳ 21,500","৳ 8,000",Out of Stock
+Processor,AMD RYZEN 7 5800X3D 8 CORES 16 THREADS AM4 GAMING PROCESSOR,AMD,"৳ 36,700","৳ 50,000","৳ 13,300",Out of Stock
+Processor,INTEL CORE I3-12100F 12TH GEN 4 CORES 8 THREADS PROCESSOR,INTEL,"৳ 10,200","৳ 13,500","৳ 3,300",Out of Stock
+Processor,Intel Core i7-12700KF 3.6 GHz 12-Core LGA 1700 12th Processor,Intel,৳ 199,"৳ 38,999","৳ 38,800",Out of Stock
+Processor,Intel Core i9-11900 11th Gen Rocket Lake Processor,Intel,"৳ 3,000","৳ 45,500","৳ 42,500",Out of Stock
+Processor,Intel Core i9-10900 10 Core 20 Thread 10th Gen Processor,Intel,"৳ 1,999","৳ 37,999","৳ 36,000",Out of Stock
