@@ -15,16 +15,8 @@ PC component prices in Bangladesh vary wildly across brands and categories, and 
 
 ---
 
-**Findings and Observations from the [Dashboard](https://public.tableau.com/views/PCComponentsPriceDashboard-Bangladesh/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-1. The processor market is effectively a duopoly — only 2 brands (Intel & AMD) dominate, compared to 89 brands in the SSD market.
-2. **Graphics Cards** have the highest average price (~৳93,000) and also the highest average discount (~৳7,800).
-3. **SSDs** have the most product variety with 789 products and 89 distinct brands.
-4. Higher priced products do not always get bigger discounts — most discounts are concentrated in the lower price range.
-5. Motherboards have the second highest product count but low brand variety, suggesting a few brands dominate that market too.
 
----
-
-## Dashboards
+## [Tableau Dashboard](https://public.tableau.com/views/PCComponentsPriceDashboard-Bangladesh/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard 1 — Market Overview
 | Chart | Type |
@@ -40,6 +32,14 @@ PC component prices in Bangladesh vary wildly across brands and categories, and 
 | Price vs Discount Analysis by Component | Scatter Plot |
 | Brands with Highest Discount Ratio | Horizontal Bar Chart |
 | Brand-wise Average Product Price | Bar Chart |
+
+**Findings and Observations from the Dashboard**
+1. The processor market is effectively a duopoly — only 2 brands (Intel & AMD) dominate, compared to 89 brands in the SSD market.
+2. **Graphics Cards** have the highest average price (~৳93,000) and also the highest average discount (~৳7,800).
+3. **SSDs** have the most product variety with 789 products and 89 distinct brands.
+4. Higher priced products do not always get bigger discounts — most discounts are concentrated in the lower price range.
+5. Motherboards have the second highest product count but low brand variety, suggesting a few brands dominate that market too.
+
 
 ---
 
