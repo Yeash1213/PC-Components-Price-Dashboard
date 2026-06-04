@@ -15,8 +15,7 @@ PC component prices in Bangladesh vary wildly across brands and categories, and 
 
 ---
 
-## Findings and Observations from the Dashboard (https://public.tableau.com/shared/8QZ7JT6ND?:display_count=n&:origin=viz_share_link)
-
+**Findings and Observations from the [Dashboard](https://public.tableau.com/views/PCComponentsPriceDashboard-Bangladesh/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 1. The processor market is effectively a duopoly — only 2 brands (Intel & AMD) dominate, compared to 89 brands in the SSD market.
 2. **Graphics Cards** have the highest average price (~৳93,000) and also the highest average discount (~৳7,800).
 3. **SSDs** have the most product variety with 789 products and 89 distinct brands.
